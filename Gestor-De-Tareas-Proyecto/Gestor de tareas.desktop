@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Gestor de tareas
+Comment=Organiza tus tareas localmente
+Exec=/home/daniel/Escritorio/Gestor-De-Tareas-Proyecto/iniciar.sh
+Path=/home/daniel/Escritorio/Gestor-De-Tareas-Proyecto
+Icon=accessories-notes
+Terminal=false
+StartupNotify=true
+Categories=Office;

@@ -1,0 +1,16 @@
+ACCESO DIRECTO — GESTOR DE TAREAS
+
+El acceso directo está en el Escritorio con el nombre “Gestor de tareas”.
+Haz doble clic para abrir la aplicación. Si Linux pregunta si confías en el
+archivo, elige “Permitir iniciar” o “Allow Launching”.
+
+La carpeta también incluye “Gestor de tareas.desktop” y “iniciar.sh”, que
+son los archivos usados para abrir la app. Puedes abrirla desde aquí haciendo
+doble clic en el archivo .desktop.
+
+La carpeta de la app se llama “Gestor-De-Tareas-Proyecto”. El acceso directo
+del Escritorio ya apunta a esta ubicación. Si mueves o renombras la carpeta de
+nuevo, habrá que actualizar la ruta del acceso directo otra vez.
+
+
+La aplicación está separada en módulos Python: app.py contiene la interfaz, logica.py contiene las reglas y el guardado, y graficos.py contiene los gráficos. Mantén esos archivos juntos en la carpeta.

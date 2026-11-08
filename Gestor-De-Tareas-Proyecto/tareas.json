@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "nombre": "Matemáticas",
+    "descripcion": "Calculo",
+    "prioridad": "Media",
+    "estado": "En progreso",
+    "fecha_limite": "10/08/2026"
+  },
+  {
+    "id": 2,
+    "nombre": "Algoritmos",
+    "descripcion": "V",
+    "prioridad": "Media",
+    "estado": "Pendiente",
+    "fecha_limite": "11/11/2026"
+  },
+  {
+    "id": 3,
+    "nombre": "Abraham2",
+    "descripcion": "Es abraham 2",
+    "prioridad": "Baja",
+    "estado": "Completada",
+    "fecha_limite": "12/11/2026"
+  },
+  {
+    "id": 4,
+    "nombre": "AAA",
+    "descripcion": "Epa",
+    "prioridad": "Alta",
+    "estado": "Pendiente",
+    "fecha_limite": "12/11/2026"
+  }
+]
